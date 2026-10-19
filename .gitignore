@@ -1,0 +1,43 @@
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Test, coverage, and tool caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# PyInstaller output
+build/
+dist/
+*.manifest
+
+# Runtime and build logs
+*.log
+drowsiness_log_*.txt
+build_log*.txt
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+.claude/
+
+# Training outputs that are not used by the desktop application
+realtime app/eye_model_final.h5
+realtime app/yawn_model_final.h5
+*.tflite

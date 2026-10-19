@@ -1,0 +1,22 @@
+Driver Drowsiness Detection - Kurulum Rehberi
+=============================================
+
+ADIM 1 - Python Yukle
+----------------------
+Python 3.10 yuklu degilse asagidaki linkten indirin:
+https://www.python.org/downloads/release/python-31011/
+
+Kurulum sirasinda MUTLAKA "Add Python to PATH" secenegini isaretleyin!
+
+ADIM 2 - Kutuphaneleri Kur
+---------------------------
+"KURULUM.bat" dosyasina cift tiklayin.
+Internet baglantisi gereklidir.
+Kurulum 5-10 dakika surebilir.
+
+ADIM 3 - Uygulamayi Calistir
+------------------------------
+"DrowsinessDetection.vbs" dosyasina cift tiklayin.
+(Veya masaustune kisayol olusturun)
+
+NOT: Kamera erisimi icin izin isteyebilir, izin verin.
